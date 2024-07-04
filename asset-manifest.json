@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/APPtwo/static/css/main.3d03ccf4.css",
-    "main.js": "/APPtwo/static/js/main.0c4b735a.js",
+    "main.js": "/APPtwo/static/js/main.5ee59c5a.js",
     "static/js/453.61ff8217.chunk.js": "/APPtwo/static/js/453.61ff8217.chunk.js",
     "index.html": "/APPtwo/index.html",
     "main.3d03ccf4.css.map": "/APPtwo/static/css/main.3d03ccf4.css.map",
-    "main.0c4b735a.js.map": "/APPtwo/static/js/main.0c4b735a.js.map",
+    "main.5ee59c5a.js.map": "/APPtwo/static/js/main.5ee59c5a.js.map",
     "453.61ff8217.chunk.js.map": "/APPtwo/static/js/453.61ff8217.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d03ccf4.css",
-    "static/js/main.0c4b735a.js"
+    "static/js/main.5ee59c5a.js"
   ]
 }
